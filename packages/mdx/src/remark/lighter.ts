@@ -3,7 +3,7 @@ import {
   extractAnnotations,
   Annotation,
   LANG_NAMES,
-} from "@apostel/lighter"
+} from "@code-hike/lighter"
 import { Code } from "../utils"
 import { CodeAnnotation } from "../smooth-code"
 import { annotationsMap } from "../mdx-client/annotations"

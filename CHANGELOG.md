@@ -89,7 +89,7 @@
 #### 🚀 Enhancement
 
 - `@apostel/mdx`
-  - Use @apostel/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
+  - Use @code-hike/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
@@ -336,11 +336,11 @@
 
 #### 🚀 Enhancement
 
-- `@apostel/highlighter`, `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`, `@apostel/smooth-code`
+- `@code-hike/highlighter`, `@apostel/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`, `@code-hike/smooth-code`
   - Better sections [#139](https://github.com/code-hike/codehike/pull/139) ([@pomber](https://github.com/pomber))
-- `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`, `@apostel/smooth-code`, `storybook`, `@apostel/utils`
+- `@apostel/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`, `@code-hike/smooth-code`, `storybook`, `@code-hike/utils`
   - Line numbers [#111](https://github.com/code-hike/codehike/pull/111) ([@pomber](https://github.com/pomber))
-- `@apostel/highlighter`, `@apostel/mdx`, `@apostel/playground`
+- `@code-hike/highlighter`, `@apostel/mdx`, `@code-hike/playground`
   - Allow empty lang [#103](https://github.com/code-hike/codehike/pull/103) ([@pomber](https://github.com/pomber))
 - `@apostel/mdx`, `@apostel/mini-browser`, `@apostel/playground`, `@apostel/smooth-code`, `storybook`
   - Slideshow component [#99](https://github.com/code-hike/codehike/pull/99) ([@pomber](https://github.com/pomber))

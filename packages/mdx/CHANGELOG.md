@@ -103,7 +103,7 @@
 
 #### 🚀 Enhancement
 
-- Use @apostel/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
+- Use @code-hike/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
