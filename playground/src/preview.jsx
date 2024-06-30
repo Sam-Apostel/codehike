@@ -1,9 +1,9 @@
 import React, { useRef, useEffect, useState } from "react";
 import * as runtime from "react/jsx-runtime";
 import { compile, run } from "@mdx-js/mdx";
-import { remarkCodeHike } from "@code-hike/mdx";
-import { CH } from "@code-hike/mdx/components";
-import "@code-hike/mdx/styles.css";
+import { remarkCodeHike } from "@apostel/mdx";
+import { CH } from "@apostel/mdx/components";
+import "@apostel/mdx/styles.css";
 import { ErrorBoundary } from "react-error-boundary";
 import { toHash } from "./hash";
 

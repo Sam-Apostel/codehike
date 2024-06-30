@@ -1,4 +1,4 @@
-import "@code-hike/mdx/styles"
+import "@apostel/mdx/styles"
 import Content from "./hello.mdx"
 
 function App() {

@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@code-hike/mdx": "^0.9.0",
+    "@apostel/mdx": "^0.9.0",
     "@mdx-js/rollup": "2.2.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"

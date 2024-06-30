@@ -1,5 +1,5 @@
 import { defineDocumentType, makeSource } from "contentlayer/source-files"
-import { remarkCodeHike } from "@code-hike/mdx"
+import { remarkCodeHike } from "@apostel/mdx"
 
 const Post = defineDocumentType(() => ({
   name: "Post",

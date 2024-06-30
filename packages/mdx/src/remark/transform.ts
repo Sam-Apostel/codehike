@@ -12,7 +12,7 @@ import { JsxNode, SuperNode, visit } from "./nodes"
 import { addConfigDefaults, CodeHikeConfig } from "./config"
 
 import type { Node } from "unist"
-import { getThemeColors } from "@code-hike/lighter"
+import { getThemeColors } from "@apostel/lighter"
 import { toGlobalConfig } from "core/types"
 
 const transforms = [
@@ -317,7 +317,7 @@ function addSmartImport(
     type: "mdxjsEsm",
     value: `import { ${specifiers.join(
       ", "
-    )} } from "@code-hike/mdx/dist/components.cjs.js"`,
+    )} } from "@apostel/mdx/dist/components.cjs.js"`,
     data: {
       estree: {
         type: "Program",
@@ -339,8 +339,8 @@ function addSmartImport(
             source: {
               type: "Literal",
               value:
-                "@code-hike/mdx/dist/components.cjs.js",
-              raw: '"@code-hike/mdx/dist/components.cjs.js"',
+                "@apostel/mdx/dist/components.cjs.js",
+              raw: '"@apostel/mdx/dist/components.cjs.js"',
             },
           },
         ],

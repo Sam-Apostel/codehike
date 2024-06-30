@@ -2,12 +2,12 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Refactor themes [#370](https://github.com/code-hike/codehike/pull/370) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - `from` annotation with line range [#376](https://github.com/code-hike/codehike/pull/376) ([@pomber](https://github.com/pomber))
   - Fix dimensions when code starts hidden [#373](https://github.com/code-hike/codehike/pull/373) ([@pomber](https://github.com/pomber))
   - Merge main [#365](https://github.com/code-hike/codehike/pull/365) ([@pomber](https://github.com/pomber))
@@ -22,7 +22,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Update nextra example [#363](https://github.com/code-hike/codehike/pull/363) ([@pomber](https://github.com/pomber))
   - Fix empty lines in expand code browser [#362](https://github.com/code-hike/codehike/pull/362) ([@pomber](https://github.com/pomber))
   - Add trigger position config [#360](https://github.com/code-hike/codehike/pull/360) ([@pomber](https://github.com/pomber))
@@ -40,7 +40,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Update lighter [#347](https://github.com/code-hike/codehike/pull/347) ([@pomber](https://github.com/pomber))
   - add outline-color to button-reset mixin [#345](https://github.com/code-hike/codehike/pull/345) ([@Mantish](https://github.com/Mantish))
   - fix: use semantic elements [#341](https://github.com/code-hike/codehike/pull/341) ([@mfranzke](https://github.com/mfranzke) [@pomber](https://github.com/pomber))
@@ -58,7 +58,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Use new MDX grammar [#337](https://github.com/code-hike/codehike/pull/337) ([@pomber](https://github.com/pomber))
   - misc: fix typo in Sildeshow [#329](https://github.com/code-hike/codehike/pull/329) ([@yangshun](https://github.com/yangshun))
   - Catch lighter error [#318](https://github.com/code-hike/codehike/pull/318) ([@pomber](https://github.com/pomber))
@@ -75,13 +75,13 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
-  - Use @code-hike/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
+- `@apostel/mdx`
+  - Use @apostel/lighter [#308](https://github.com/code-hike/codehike/pull/308) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
 - add/astro-example [#282](https://github.com/code-hike/codehike/pull/282) ([@JohnDaly](https://github.com/JohnDaly))
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Fix line number horizontal shift [#278](https://github.com/code-hike/codehike/pull/278) ([@pomber](https://github.com/pomber))
   - Merge main [#275](https://github.com/code-hike/codehike/pull/275) ([@pomber](https://github.com/pomber))
 
@@ -97,7 +97,7 @@
 #### 🐛 Bug Fix
 
 - Gatsby example [#273](https://github.com/code-hike/codehike/pull/273) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - `rows` prop when you have two panels [#269](https://github.com/code-hike/codehike/pull/269) ([@pomber](https://github.com/pomber))
   - Fix focus height on transitions [#268](https://github.com/code-hike/codehike/pull/268) ([@pomber](https://github.com/pomber))
   - Force content box in code-wrapper [#267](https://github.com/code-hike/codehike/pull/267) ([@pomber](https://github.com/pomber))
@@ -113,7 +113,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Change code height with `rows` [#262](https://github.com/code-hike/codehike/pull/262) ([@pomber](https://github.com/pomber))
   - Change plugin type [#256](https://github.com/code-hike/codehike/pull/256) ([@pomber](https://github.com/pomber))
   - feat(#217): CH.Slideshow autoPlay and autoPlayLoop [#250](https://github.com/code-hike/codehike/pull/250) ([@brianespinosa](https://github.com/brianespinosa) [@pomber](https://github.com/pomber))
@@ -134,7 +134,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Remove overscroll-behavior [#241](https://github.com/code-hike/codehike/pull/241) ([@pomber](https://github.com/pomber))
   - Merge main [#236](https://github.com/code-hike/codehike/pull/236) ([@pomber](https://github.com/pomber))
 
@@ -148,7 +148,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Add copy button to code browser [#234](https://github.com/code-hike/codehike/pull/234) ([@pomber](https://github.com/pomber))
   - Set `longestLineRef` once [#233](https://github.com/code-hike/codehike/pull/233) ([@pomber](https://github.com/pomber))
   - Merge main [#231](https://github.com/code-hike/codehike/pull/231) ([@pomber](https://github.com/pomber))
@@ -163,14 +163,14 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Static scrollycoding [#223](https://github.com/code-hike/codehike/pull/223) ([@pomber](https://github.com/pomber))
   - Add previews in steps [#221](https://github.com/code-hike/codehike/pull/221) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
 - Update docusaurus [#228](https://github.com/code-hike/codehike/pull/228) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Invert staticMediaQuery [#229](https://github.com/code-hike/codehike/pull/229) ([@pomber](https://github.com/pomber))
   - Add preview frameless prop [#225](https://github.com/code-hike/codehike/pull/225) ([@pomber](https://github.com/pomber))
   - Update nextjs example [#224](https://github.com/code-hike/codehike/pull/224) ([@pomber](https://github.com/pomber))
@@ -186,7 +186,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Better scrollbars [#216](https://github.com/code-hike/codehike/pull/216) ([@pomber](https://github.com/pomber))
   - Improve code-browser [#215](https://github.com/code-hike/codehike/pull/215) ([@pomber](https://github.com/pomber))
   - Add from annotation [#214](https://github.com/code-hike/codehike/pull/214) ([@pomber](https://github.com/pomber))
@@ -204,7 +204,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Stable annotations [#203](https://github.com/code-hike/codehike/pull/203) ([@pomber](https://github.com/pomber))
   - Merge main [#201](https://github.com/code-hike/codehike/pull/201) ([@pomber](https://github.com/pomber))
 
@@ -218,12 +218,12 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Multiline mark annotation [#199](https://github.com/code-hike/codehike/pull/199) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Fix Safari 14 playground [#195](https://github.com/code-hike/codehike/pull/195) ([@pomber](https://github.com/pomber))
   - Empty codeblocks [#192](https://github.com/code-hike/codehike/pull/192) ([@pomber](https://github.com/pomber))
   - Merge main [#190](https://github.com/code-hike/codehike/pull/190) ([@pomber](https://github.com/pomber))
@@ -238,14 +238,14 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Fix rose pine themes [#188](https://github.com/code-hike/codehike/pull/188) ([@pomber](https://github.com/pomber))
   - Better playground [#187](https://github.com/code-hike/codehike/pull/187) ([@pomber](https://github.com/pomber))
   - Playground [#185](https://github.com/code-hike/codehike/pull/185) ([@pomber](https://github.com/pomber))
 
 #### 🏠 Internal
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Modify output of dist folder to merge all .d.ts files [#186](https://github.com/code-hike/codehike/pull/186) ([@AeonFr](https://github.com/AeonFr) [@pomber](https://github.com/pomber))
   - Merge main [#183](https://github.com/code-hike/codehike/pull/183) ([@pomber](https://github.com/pomber))
 
@@ -260,7 +260,7 @@
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Expand button [#181](https://github.com/code-hike/codehike/pull/181) ([@pomber](https://github.com/pomber))
   - Hide tabs [#179](https://github.com/code-hike/codehike/pull/179) ([@pomber](https://github.com/pomber))
   - Merge main [#176](https://github.com/code-hike/codehike/pull/176) ([@pomber](https://github.com/pomber))
@@ -275,14 +275,14 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Copy button component [#172](https://github.com/code-hike/codehike/pull/172) ([@pomber](https://github.com/pomber))
   - Remove target from code links [#169](https://github.com/code-hike/codehike/pull/169) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
 - Contentlayer example [#170](https://github.com/code-hike/codehike/pull/170) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Better props support for mdx [#174](https://github.com/code-hike/codehike/pull/174) ([@pomber](https://github.com/pomber))
   - Fix react 18 strict mode [#173](https://github.com/code-hike/codehike/pull/173) ([@pomber](https://github.com/pomber))
   - v0.4.0 [#167](https://github.com/code-hike/codehike/pull/167) ([@pomber](https://github.com/pomber))
@@ -297,12 +297,12 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Monopackage refactor [#147](https://github.com/code-hike/codehike/pull/147) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
 
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Fix preview width [#165](https://github.com/code-hike/codehike/pull/165) ([@pomber](https://github.com/pomber))
   - Python comments support [#163](https://github.com/code-hike/codehike/pull/163) ([@pomber](https://github.com/pomber))
   - Smart imports [#160](https://github.com/code-hike/codehike/pull/160) ([@pomber](https://github.com/pomber))
@@ -323,17 +323,17 @@
 
 #### 🚀 Enhancement
 
-- `@code-hike/highlighter`, `@code-hike/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`, `@code-hike/smooth-code`
+- `@apostel/highlighter`, `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`, `@apostel/smooth-code`
   - Better sections [#139](https://github.com/code-hike/codehike/pull/139) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`, `@code-hike/smooth-code`, `storybook`, `@code-hike/utils`
+- `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`, `@apostel/smooth-code`, `storybook`, `@apostel/utils`
   - Line numbers [#111](https://github.com/code-hike/codehike/pull/111) ([@pomber](https://github.com/pomber))
-- `@code-hike/highlighter`, `@code-hike/mdx`, `@code-hike/playground`
+- `@apostel/highlighter`, `@apostel/mdx`, `@apostel/playground`
   - Allow empty lang [#103](https://github.com/code-hike/codehike/pull/103) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/mini-browser`, `@code-hike/playground`, `@code-hike/smooth-code`, `storybook`
+- `@apostel/mdx`, `@apostel/mini-browser`, `@apostel/playground`, `@apostel/smooth-code`, `storybook`
   - Slideshow component [#99](https://github.com/code-hike/codehike/pull/99) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/highlighter`, `@code-hike/mdx`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/playground`, `@code-hike/script`, `@code-hike/scroller`, `@code-hike/smooth-code`, `storybook`, `@code-hike/utils`
+- `@apostel/classer`, `@apostel/highlighter`, `@apostel/mdx`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/playground`, `@apostel/script`, `@apostel/scroller`, `@apostel/smooth-code`, `storybook`, `@apostel/utils`
   - Use shiki [#77](https://github.com/code-hike/codehike/pull/77) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `@code-hike/mini-frame`, `storybook`
+- `@apostel/mini-editor`, `@apostel/mini-frame`, `storybook`
   - Split editor [#67](https://github.com/code-hike/codehike/pull/67) ([@pomber](https://github.com/pomber))
 
 #### 🐛 Bug Fix
@@ -420,34 +420,34 @@
   - Add scrollycoding story [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Change smooth-column easing [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Move storybook [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`
+- `@apostel/mdx`
   - Fix quirks mode height [#143](https://github.com/code-hike/codehike/pull/143) ([@pomber](https://github.com/pomber))
   - Add autoImport setting [#137](https://github.com/code-hike/codehike/pull/137) ([@pomber](https://github.com/pomber))
   - Fix comment annotations [#101](https://github.com/code-hike/codehike/pull/101) ([@pomber](https://github.com/pomber))
-- `@code-hike/smooth-code`
+- `@apostel/smooth-code`
   - Reset some code styles [#136](https://github.com/code-hike/codehike/pull/136) ([@pomber](https://github.com/pomber))
   - Changes style property to fix 'Unsupported style property color-scheme' [#134](https://github.com/code-hike/codehike/pull/134) ([@ghoshnirmalya](https://github.com/ghoshnirmalya))
   - Fix firefox copypasting [#124](https://github.com/code-hike/codehike/pull/124) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`, `@code-hike/smooth-code`, `@code-hike/utils`
+- `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`, `@apostel/smooth-code`, `@apostel/utils`
   - Better errors [#135](https://github.com/code-hike/codehike/pull/135) ([@pomber](https://github.com/pomber))
-- `@code-hike/highlighter`, `@code-hike/playground`
+- `@apostel/highlighter`, `@apostel/playground`
   - Handle invalid language [#126](https://github.com/code-hike/codehike/pull/126) ([@pomber](https://github.com/pomber))
-- `@code-hike/smooth-code`, `@code-hike/utils`
+- `@apostel/smooth-code`, `@apostel/utils`
   - Selection color from theme [#125](https://github.com/code-hike/codehike/pull/125) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/playground`, `@code-hike/smooth-code`, `@code-hike/utils`
+- `@apostel/mdx`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/playground`, `@apostel/smooth-code`, `@apostel/utils`
   - Better default styles [#116](https://github.com/code-hike/codehike/pull/116) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/playground`
+- `@apostel/mdx`, `@apostel/playground`
   - Fix annotation regex [#105](https://github.com/code-hike/codehike/pull/105) ([@pomber](https://github.com/pomber))
   - Stop assuming comment annotations [#97](https://github.com/code-hike/codehike/pull/97) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `@code-hike/playground`, `storybook`
+- `@apostel/mini-editor`, `@apostel/playground`, `storybook`
   - Smarter editor height [#98](https://github.com/code-hike/codehike/pull/98) ([@pomber](https://github.com/pomber))
-- `@code-hike/highlighter`, `@code-hike/playground`, `@code-hike/smooth-code`, `storybook`, `@code-hike/utils`
+- `@apostel/highlighter`, `@apostel/playground`, `@apostel/smooth-code`, `storybook`, `@apostel/utils`
   - Fix multi-annotation focus string [#94](https://github.com/code-hike/codehike/pull/94) ([@pomber](https://github.com/pomber))
-- `@code-hike/mdx`, `@code-hike/mini-editor`, `@code-hike/playground`
+- `@apostel/mdx`, `@apostel/mini-editor`, `@apostel/playground`
   - Make tabs clickable [#86](https://github.com/code-hike/codehike/pull/86) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`, `@code-hike/smooth-code`, `storybook`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`, `@apostel/smooth-code`, `storybook`
   - Add spring config [#75](https://github.com/code-hike/codehike/pull/75) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`
+- `@apostel/mini-editor`
   - Fix copy paste [#63](https://github.com/code-hike/codehike/pull/63) ([@pomber](https://github.com/pomber))
   - Add file name to focus component [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - New smooshpack version [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
@@ -476,7 +476,7 @@
   - Add focus to transtion [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add useDimensions [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Start removing code-surfer [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `storybook`
+- `@apostel/mini-editor`, `storybook`
   - Fix line jumps [#61](https://github.com/code-hike/codehike/pull/61) ([@pomber](https://github.com/pomber))
   - Add horizontal center prop [#58](https://github.com/code-hike/codehike/pull/58) ([@pomber](https://github.com/pomber))
   - Add scrollbars [#49](https://github.com/code-hike/codehike/pull/49) ([@pomber](https://github.com/pomber))
@@ -486,34 +486,34 @@
   - Add stateful editor stories [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add focus by column story [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add mini-editor stories [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`
+- `@apostel/mini-browser`
   - Optional browser transition [#59](https://github.com/code-hike/codehike/pull/59) ([@pomber](https://github.com/pomber))
   - Use link instead of hash to avoid double updates [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add url tests [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Extract mini browser [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Browser props [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Remove warnings [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/script`
+- `@apostel/script`
   - Add release workflow [#32](https://github.com/code-hike/codehike/pull/32) ([@pomber](https://github.com/pomber))
   - Add auto [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`
   - v0.3.0-next.0 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/script`, `@code-hike/scroller`, `@code-hike/sim-user`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/script`, `@apostel/scroller`, `@apostel/sim-user`
   - Add lerna [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`, `storybook`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`, `storybook`
   - v0.0.0-4333a8b [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-6a4ea1c [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-e48fa74 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-1f0ad83 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-cde697c [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`
+- `@apostel/classer`
   - Add link to thread [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add readme [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/utils`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/utils`
   - Add classer [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/scroller`, `storybook`
+- `@apostel/scroller`, `storybook`
   - Fix intersection observer in Safari [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`, `storybook`, `@code-hike/utils`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`, `storybook`, `@apostel/utils`
   - v0.0.0-aa6efee [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-b57b267 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-33f17eb [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
@@ -522,35 +522,35 @@
   - v0.0.0-133ab88 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0-4adbd70 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add scrollycoding package [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `storybook`
+- `@apostel/mini-browser`, `storybook`
   - Change focus style [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add back mini browser [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Add browser transition [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Fix browser default url [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `@code-hike/mini-frame`
+- `@apostel/mini-editor`, `@apostel/mini-frame`
   - Full width lines for easier text selection [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/script`, `storybook`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/script`, `storybook`
   - Use sass [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`, `@code-hike/utils`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`, `@apostel/utils`
   - v0.0.0-8cbbd89 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `storybook`, `@code-hike/utils`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `storybook`, `@apostel/utils`
   - Change styles [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/scroller`, `@code-hike/sim-user`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/scroller`, `@apostel/sim-user`
   - v0.0.0-a3f5be4 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Remove site [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Refactor scripts [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Change canary version [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Refactor all the things [#13](https://github.com/code-hike/codehike/pull/13) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/scroller`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/scroller`
   - Fix component types [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-frame`, `storybook`
+- `@apostel/mini-frame`, `storybook`
   - Make height required for mini-frames [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Run prettier [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/script`, `@code-hike/scroller`, `@code-hike/sim-user`
+- `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/script`, `@apostel/scroller`, `@apostel/sim-user`
   - v0.0.0-6a7ffe8 [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - v0.0.0+6aadf0c [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
   - Rename build to script [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
-- `@code-hike/scroller`
+- `@apostel/scroller`
   - Fix intersection observer on Firefox [#145](https://github.com/code-hike/codehike/pull/145) ([@pomber](https://github.com/pomber))
 
 #### ⚠️ Pushed to `main`
@@ -563,21 +563,21 @@
 - Bump auto version [#35](https://github.com/code-hike/codehike/pull/35) ([@pomber](https://github.com/pomber))
 - `storybook`
   - Add Chromatic [#70](https://github.com/code-hike/codehike/pull/70) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `@code-hike/smooth-code`
+- `@apostel/mini-editor`, `@apostel/smooth-code`
   - Extract smooth-code package [#69](https://github.com/code-hike/codehike/pull/69) ([@pomber](https://github.com/pomber))
-- `@code-hike/mini-editor`, `storybook`
+- `@apostel/mini-editor`, `storybook`
   - Rename editor components [#56](https://github.com/code-hike/codehike/pull/56) ([@pomber](https://github.com/pomber))
-- `@code-hike/classer`, `@code-hike/mini-browser`, `@code-hike/mini-editor`, `@code-hike/mini-frame`, `@code-hike/mini-terminal`, `@code-hike/script`, `@code-hike/scroller`, `@code-hike/sim-user`
+- `@apostel/classer`, `@apostel/mini-browser`, `@apostel/mini-editor`, `@apostel/mini-frame`, `@apostel/mini-terminal`, `@apostel/script`, `@apostel/scroller`, `@apostel/sim-user`
   - Better release log [#41](https://github.com/code-hike/codehike/pull/41) ([@pomber](https://github.com/pomber))
 
 #### 📝 Documentation
 
-- `@code-hike/mini-browser`, `storybook`
+- `@apostel/mini-browser`, `storybook`
   - Add storybook docs [#71](https://github.com/code-hike/codehike/pull/71) ([@pomber](https://github.com/pomber))
 
 #### 🔩 Dependency Updates
 
-- `@code-hike/mdx`, `@code-hike/script`, `@code-hike/smooth-code`, `@code-hike/utils`
+- `@apostel/mdx`, `@apostel/script`, `@apostel/smooth-code`, `@apostel/utils`
   - Add `color-scheme` CSS [#129](https://github.com/code-hike/codehike/pull/129) ([@pomber](https://github.com/pomber))
 
 #### Authors: 2

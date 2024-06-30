@@ -1,4 +1,4 @@
-import "@code-hike/mdx/styles"
+import "@apostel/mdx/styles"
 
 function MyApp({ Component, pageProps }) {
   return (

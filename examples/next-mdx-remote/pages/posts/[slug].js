@@ -4,8 +4,8 @@ import { serialize } from "next-mdx-remote/serialize"
 import Link from "next/link"
 import path from "path"
 import { postNames, POSTS_PATH } from "../../src/posts"
-import { remarkCodeHike } from "@code-hike/mdx"
-import { CH } from "@code-hike/mdx/components"
+import { remarkCodeHike } from "@apostel/mdx"
+import { CH } from "@apostel/mdx/components"
 
 export default function PostPage({ source }) {
   return (

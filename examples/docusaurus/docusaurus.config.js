@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const { remarkCodeHike } = require("@code-hike/mdx")
+const { remarkCodeHike } = require("@apostel/mdx")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -24,7 +24,7 @@ const config = {
         },
         theme: {
           customCss: [
-            require.resolve("@code-hike/mdx/styles.css"),
+            require.resolve("@apostel/mdx/styles.css"),
             require.resolve("./src/css/custom.css"),
           ],
         },

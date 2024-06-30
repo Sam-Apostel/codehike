@@ -1,4 +1,4 @@
-const { remarkCodeHike } = require("@code-hike/mdx")
+const { remarkCodeHike } = require("@apostel/mdx")
 
 module.exports = {
   siteMetadata: {

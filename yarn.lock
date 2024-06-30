@@ -455,9 +455,9 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@code-hike/lighter@0.8.2":
+"@apostel/lighter@0.8.2":
   version "0.8.2"
-  resolved "https://registry.yarnpkg.com/@code-hike/lighter/-/lighter-0.8.2.tgz#21fe70c339b645718606a8aa301f15524e5f829f"
+  resolved "https://registry.yarnpkg.com/@apostel/lighter/-/lighter-0.8.2.tgz#21fe70c339b645718606a8aa301f15524e5f829f"
   integrity sha512-h7PA2+90rIRQWamxeHSpcgVLs9hwhz8UW8+RG+vYIYh2Y4F2GTa4c+7S5HQH/BKTyMPv5yrSCEwhCB605gO5og==
   dependencies:
     ansi-sequence-parser "^1.1.0"

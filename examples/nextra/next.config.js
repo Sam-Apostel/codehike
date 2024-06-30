@@ -1,4 +1,4 @@
-const { remarkCodeHike } = require("@code-hike/mdx")
+const { remarkCodeHike } = require("@apostel/mdx")
 
 const withNextra = require("nextra")({
   theme: "nextra-theme-docs",

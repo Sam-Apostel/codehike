@@ -6,7 +6,7 @@ import {
   Scripts,
   ScrollRestoration,
 } from "remix"
-import codeHikeStyles from "@code-hike/mdx/styles.css"
+import codeHikeStyles from "@apostel/mdx/styles.css"
 
 export function meta() {
   return { title: "New Remix App" }

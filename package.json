@@ -21,7 +21,7 @@
     "lerna": "^4.0.0",
     "prettier": "^2.5.1"
   },
-  "repository": "code-hike/codehike",
+  "repository": "Sam_Apostel/codehike",
   "author": "pomber <pombopombopombo@gmail.com>",
   "auto": {
     "plugins": [

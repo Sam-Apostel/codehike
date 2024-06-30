@@ -1,6 +1,6 @@
 import { defineConfig } from "vite"
 import react from "@vitejs/plugin-react"
-import { remarkCodeHike } from "@code-hike/mdx"
+import { remarkCodeHike } from "@apostel/mdx"
 
 export default defineConfig(async () => {
   const mdx = await import("@mdx-js/rollup")

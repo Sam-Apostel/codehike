@@ -4,7 +4,7 @@ import { runSync } from "@mdx-js/mdx"
 import { CH } from "../src/components"
 import { Layout } from "../dev/layout"
 import React from "react"
-import { THEME_NAMES } from "@code-hike/lighter"
+import { THEME_NAMES } from "@apostel/lighter"
 
 const mdx = `
 

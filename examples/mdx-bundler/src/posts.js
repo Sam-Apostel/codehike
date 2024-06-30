@@ -1,6 +1,6 @@
 import fs from "fs"
 import path from "path"
-import { remarkCodeHike } from "@code-hike/mdx"
+import { remarkCodeHike } from "@apostel/mdx"
 import { bundleMDX } from "mdx-bundler"
 
 export function getPostNames() {

@@ -22,7 +22,7 @@ const clientExternal = [
 ]
 const remarkExternal = [
   // "hast-util-to-estree",
-  "@code-hike/lighter",
+  "@apostel/lighter",
   // "is-plain-obj",
   "node-fetch",
   // "remark-rehype",

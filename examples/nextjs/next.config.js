@@ -1,4 +1,4 @@
-const { remarkCodeHike } = require("@code-hike/mdx")
+const { remarkCodeHike } = require("@apostel/mdx")
 
 const withMDX = require("@next/mdx")({
   extension: /\.mdx?$/,

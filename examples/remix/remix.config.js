@@ -1,4 +1,4 @@
-const { remarkCodeHike } = require("@code-hike/mdx")
+const { remarkCodeHike } = require("@apostel/mdx")
 /**
  * @type {import('@remix-run/dev').AppConfig}
  */

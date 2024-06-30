@@ -10,7 +10,7 @@
     "start": "cross-env NODE_ENV=production remix-serve build"
   },
   "dependencies": {
-    "@code-hike/mdx": "^0.9.0",
+    "@apostel/mdx": "^0.9.0",
     "@remix-run/react": "^1.2.2",
     "@remix-run/serve": "^1.2.2",
     "cross-env": "^7.0.3",
