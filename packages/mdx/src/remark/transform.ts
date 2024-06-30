@@ -12,7 +12,7 @@ import { JsxNode, SuperNode, visit } from "./nodes"
 import { addConfigDefaults, CodeHikeConfig } from "./config"
 
 import type { Node } from "unist"
-import { getThemeColors } from "@apostel/lighter"
+import { getThemeColors } from "@code-hike/lighter"
 import { toGlobalConfig } from "core/types"
 
 const transforms = [
