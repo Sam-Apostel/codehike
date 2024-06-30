@@ -6506,10 +6506,10 @@ pkg-dir@^4.1.0, pkg-dir@^4.2.0:
     find-up "^4.0.0"
 
 "playground@file:/Users/samapostel/Developer/codehike/playground":
-  version "0.9.0"
+  version "1.0.0"
   resolved "file:playground"
   dependencies:
-    "@apostel/mdx" "^0.9.0"
+    "@apostel/mdx" "^1.0.0"
     "@mdx-js/mdx" "^2.1.1"
     "@monaco-editor/react" "^4.4.5"
     lz-string "^1.4.4"
