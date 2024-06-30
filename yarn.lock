@@ -9,8 +9,8 @@
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.0"
 
-"@apostel/mdx@^0.9.0", "@apostel/mdx@file:/Users/samapostel/Developer/codehike/packages/mdx":
-  version "0.9.0"
+"@apostel/mdx@^1.0.0", "@apostel/mdx@file:/Users/samapostel/Developer/codehike/packages/mdx":
+  version "1.0.0"
   resolved "file:packages/mdx"
   dependencies:
     "@code-hike/lighter" "0.8.2"
